@@ -5,3 +5,6 @@ __pycache__/
 *.txt
 *.py
 *.torch
+*.pth
+autoencoder_progress_10_features/
+autoencoder_progress_2_features/
